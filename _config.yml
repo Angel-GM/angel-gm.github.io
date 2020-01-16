@@ -29,27 +29,27 @@ skills:
 
 #Work experience and education
 roles:
- - title: Master of Science (M.S.)
+ - title: Master of Science
    start: 2019
    end: 2021
-   employer: Statistics - Data Science Track
-   description: Expected graduation from Baruch College Spring 2021.
+   employer: Statistics
+   description: Following the Data Science track. Expected graduation from Baruch College Spring 2021.
  - title: Financial Analyst
    start: 2016
    end: 2018
    employer: HSBC Bank
    description: Was part of the Balance Sheet Management Product Control team for over two years where I oversaw trade activity in a $40 Billion investment portfolio and a $500 Million loan portfolion. My role also allowed me to use Excel, VBA, Access, and SQL to upgrade legacy proceses.
- - title: Bachelor of Arts (B.A.)
+ - title: Bachelor of Arts
    start: 2011
    end: 2016
    employer: Actuarial Science
    description: Graduated from Baruch College, with minors in <strong>Psychology</strong> and <strong>Technology, Business and the Internet</strong>
- - title: Admin. Assistant
+ - title: Admin&sdot; Assistant
    start: 2014
    end: 2015
    employer: G9C Fashion
    description: Automated various inventory-related reports using Excel and VBA. Also dealt with purchase orders entry and customer service.
- - title: Admin. Assistant
+ - title: Admin&sdot; Assistant
    start: 2012
    end: 2015
    employer: Mago Landscaping
