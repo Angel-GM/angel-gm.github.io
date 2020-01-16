@@ -1,7 +1,7 @@
 # Site settings
 title: Angel Gonzalez Mendoza
-twitter_username: namegoeshere
-name: Angel Gonzalez Mendoza
+# twitter_username: namegoeshere
+name: Angel GM
 
 # Build settings
 markdown: kramdown
@@ -13,88 +13,76 @@ primarylinks:
    url: https://github.com/angel-gm
  - title: LinkedIn
    url: https://www.linkedin.com/in/angelgm531/
+ - title: Email
+   url: mailto:angel.gon531@gmail.com
 
-#Any buzzword skills you want to include
+#Skills appear as tags
 skills:
  - R
  - Python
  - SQL
  - Excel/VBA
  - Access
+ - Statistics
+ - Machine Learning
 
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
-
-#Work experience is required
+#Work experience and education
 roles:
+ - title: Master of Science (M.S.)
+   start: 2019
+   end: 2021
+   employer: Statistics - Data Science Track
+   description: Expected graduation from Baruch College Spring 2021.
  - title: Financial Analyst
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
    start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   end: 2018
+   employer: HSBC Bank
+   description: Was part of the Balance Sheet Management Product Control team for over two years where I oversaw trade activity in a $40 Billion investment portfolio and a $500 Million loan portfolion. My role also allowed me to use Excel, VBA, Access, and SQL to upgrade legacy proceses.
+ - title: Bachelor of Arts (B.A.)
+   start: 2011
+   end: 2016
+   employer: Actuarial Science
+   description: Graduated from Baruch College, with minors in <strong>Psychology</strong> and <strong>Technology, Business and the Internet</strong>
+ - title: Admin. Assistant
+   start: 2014
+   end: 2015
+   employer: G9C Fashion
+   description: Automated various inventory-related reports using Excel and VBA. Also dealt with purchase orders entry and customer service.
+ - title: Admin. Assistant
+   start: 2012
+   end: 2015
+   employer: Mago Landscaping
+   description: Processed invoices for over 800 customers using QuickBooks. Dealt with company liabilities and customer service.
 
-#Education is required
-education:
- - level: Master of Science (M.S.)
-   date: Expected
-   subject: Statistics - Data Science Track
-   school: University of Birmingham
- - level: Bachelor of Arts (B.A.)
-   date: 2016
-   subject: Actuarial Science
-   school: CUNY Baruch College
 
-#This section is optional (as is the image link below)
-# coursera:
-#    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#    courses:
-#     - title: Functional Programming Principles in Scala
-#       link: https://www.coursera.org/course/progfun
-#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#       date: September 16, 2013
-#     - title: Algorithms Design and Analysis, Part 1
-#       link: https://www.coursera.org/specializations/algorithms
-#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-#       date: April 28, 2014
 
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-# speakerdeck:
-#    profileurl: https://speakerdeck.com/robhinds
-#    talks:
-#     - title: Product Management for Engineers
-#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#       conference: API Conference, Berlin 2018
-#     - title: Agile Machine Learning - from Theory to Production
-#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#       conference: W-JAX Conference, Munich 2017 (London 2017)
+#Education area- merged with work experience instead
+# education:
+#  - level:
+#    date: 2021
+#    subject: Statistics - Data Science Track
+#    school: CUNY Baruch College
+#  - level: Bachelor of Arts (B.A.)
+#    date: 2016
+#    subject: Actuarial Science
+#    school: CUNY Baruch College
 
-#List of interesting Github repo/projects to include - optional
+
+# List of Github repo/projects to include
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - angel-gm/angel-gm.github.io
+ - angel-gm/angel-gm.github.io
+ - angel-gm/angel-gm.github.io
 
-#Stackoverflow flair is optional
-# stackoverflow:
-#    profileurl: http://stackoverflow.com/users/258813/rhinds
-#    flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
 
 intro: |
-  I am
+  I am a student pursuing a master’s degree in Statistics, with a concentration in Data Science, at Baruch College in NYC. I’ve previously worked at HSBC Bank as a financial analyst after graduation from Baruch with a major in Actuarial Science and passing 3 actuarial exams.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
+   <a target="_blank" href="https://www.soa.org/education/exam-req/edu-exam-p-detail/" >Passed SOA Exam P</a><br/>
+   <a target="_blank" href="https://www.soa.org/education/exam-req/edu-exam-fm-detail/" >Passed SOA Exam FM</a><br/>
+   <a target="_blank" href="https://www.soa.org/education/exam-req/edu-exam-ifm-detail/" >Passed SOA Exam IMF</a><br/>
+   <a target="_blank" href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" >Completed 'Python for Data Science and Machine Learning Bootcamp'</a>.<br/>
+   <a target="_blank" href="https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse" >Completed 'Communicating with Data in the Tidyverse'</a>

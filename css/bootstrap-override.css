@@ -1,16 +1,16 @@
 /** NavBar override **/
 .nav>li>a:focus, .nav>li>a:hover,.navbar-inverse .nav li.dropdown.open>.dropdown-toggle,.navbar-inverse .nav li.dropdown.active>.dropdown-toggle,.navbar-inverse .nav li.dropdown.open.active>.dropdown-toggle{
-	background-color: #2d3538;
+	background-color: #386373;
 }
 .navbar-inverse .nav>li>a {
-	color: #A5C5DF;
+	color: #a1a1a1; /*A5C5DF*/
 }
 .navbar-inverse .brand {
 	color: white;
 }
 .navbar-inverse  {
-	background-color: #4B8ABE;
-	background-image: linear-gradient(to bottom, #2d3538, #2d3538);
+	background-color: #386373; /*4B8ABE  */
+	background-image: linear-gradient(to bottom, #386373, #386373);
 	border-width: 0px;
 	border-color: #2d3538;
 	color: white;
