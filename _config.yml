@@ -38,7 +38,14 @@ roles:
    start: 2016
    end: 2018
    employer: HSBC Bank
-   description: Was part of the Balance Sheet Management Product Control team for over two years where I oversaw trade activity in a $40 Billion investment portfolio and a $500 Million loan portfolion. My role also allowed me to use Excel, VBA, Access, and SQL to upgrade legacy proceses.
+   description: |
+     <ul> <li>Analyze the effects of interest rate changes and trade activity on the NPV of net interest income for a $40 billion investment
+     portfolio consisting primarily of mortgage-backed securities.</li> <br>
+     <li>Compile daily risk profile of a $500 million loan portfolio to traders and market risk management teams for hedging and compliance
+     purposes; such risk metrics include duration and convexity.</li> <br>
+     <li>Report daily profit/loss and mark-to-market of rate-locked loans and ensure accurate loan and market information within our MBS
+     valuation framework. </li> <br> </ul>
+
  - title: Bachelor of Arts
    start: 2011
    end: 2016
@@ -48,7 +55,11 @@ roles:
    start: 2014
    end: 2015
    employer: G9C Fashion
-   description: Automated various inventory-related reports using Excel and VBA. Also dealt with purchase orders entry and customer service.
+   description: |
+    <ul><li>Redesigned the process of producing and synthesizing logistics reports and reduced process time from 30 minutes to 5 minutes.</li><br>
+    <li>Compiled all inventory reports to ensure accuracy and compliance with the warehouse’s policies.</li><br>
+    <li>Automated reports in Excel to forecast future production supplies.</li><br></ul>
+
  - title: Admin&sdot; Assistant
    start: 2012
    end: 2015
